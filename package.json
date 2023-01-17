@@ -1,0 +1,26 @@
+{
+  "name": "tanim",
+  "version": "0.1.0",
+  "description": "a browser-based tool for making frame-by frame animation. also a collaboration platform.",
+  "main": "index.ts",
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/t2tc/tanim.git"
+  },
+  "keywords": [
+    "desktop-pwa"
+  ],
+  "author": "t2tc",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/t2tc/tanim/issues"
+  },
+  "homepage": "https://github.com/t2tc/tanim#readme",
+  "dependencies": {
+    "esbuild": "^0.17.0",
+    "typescript": "^4.9.4"
+  }
+}

@@ -119,7 +119,7 @@ input[type="password"] {
 .form-row input:valid~span,
 .form-row input:focus~span {
     font-size: small;
-    transform: translateX(0.3em) translateY(-1em); /* this isn't something pixel-perfect but i don't give a dame about it */
+    transform: translateX(0.3em) translateY(-1em); /* this isn't something pixel-perfect but i don't give a damn about it */
 }
 
 .form-row input:focus~span {
